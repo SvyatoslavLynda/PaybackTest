@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PaybackTest</string>
+
+    <string name="title_tag">Tags: </string>
+    <string name="title_likes">Likes: </string>
+    <string name="title_downloads">Downloads: </string>
+    <string name="title_comments">Comments: </string>
+
+    <string name="initial_search_query">fruits</string>
+    <string name="search_query_placeholder">Enter query for example - fruits</string>
+    <string name="no_internet_message">It seems that network is gone</string>
+    <string name="details_message">Would you like to open the details?</string>
+    <string name="toast_permission_is_not_granted_message">Please grant the microphone permission inside the settings for the application.</string>
+
+    <string name="title_loading">Loading..</string>
+    <string name="title_error">Something went wrong</string>
+</resources>
